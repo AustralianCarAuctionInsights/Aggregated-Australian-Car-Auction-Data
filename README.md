@@ -33,6 +33,23 @@ Under the `data/weekly/` directory, you will find **JSON** for each weekly aucti
 
 Each file is named with the corresponding week, e.g., `2026_week_09_summary.json`.
 
+## Field Definitions
+
+This dataset provides **aggregated weekly insights** from Australian car auctions. Each field is defined as follows:
+
+| Field | Description |
+|-------|-------------|
+| `week` | ISO week identifier of the snapshot, e.g., "2026-W09". |
+| `total_stock` | Total number of vehicles aggregated across all auctions for the week. |
+| `by_state` | Percentage of total vehicles per Australian state (NSW, QLD, VIC, WA, SA, ACT, TAS, NT). |
+| `by_odometer_range` | Percentage of vehicles grouped by odometer km range (0–20k, 20–40k, etc.). |
+| `by_fuel_type` | Percentage of vehicles by fuel type (Petrol, Diesel, Hybrid, Electric). |
+| `by_suggested_bid_range` | Percentage of vehicles by suggested bid range (Below 5k, 5k-10k, 10k-15k, etc.). |
+| `auction_events` | Aggregate information on auctions for the week: `total_scheduled` (total events), `active_auction_houses` (number of houses active). |
+| `top_picks` | List of notable vehicles for the week, including: year, make, model, body_type, seats, odometer, transmission, fuel_type, example_type, auction_link. |
+| `auction_link` | URL link to the weekly report or auction reference for the specific vehicle. |
+
+
 ---
 
 ## Example Snapshot Structure
