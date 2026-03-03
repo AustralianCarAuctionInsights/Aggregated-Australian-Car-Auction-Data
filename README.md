@@ -131,3 +131,24 @@ Here’s an example of what a weekly JSON snapshot might look like (abridged):
         }
     ]
 }
+
+
+
+## Weekly Auction Data Snapshots
+
+Our repository provides structured weekly snapshots of Australian car auction data. Each JSON file includes:
+
+- Total stock
+- Distribution by state, odometer range, fuel type, and suggested bid
+- Top picks with auction links
+- Weekly auction events summary
+
+You can download the snapshots and use them for research, analytics, or AI applications.
+
+### Weekly Snapshots
+
+| Week | JSON Snapshot | Report Link |
+|------|---------------|------------|
+| 2026-week_09_February | [2026_week_09_February_summary.json](data/weekly/2026_week_09_February_summary.json) | [View Report](https://media.wholesaleconsole.com/australian-auto-auction-report-february-08-to-14/) |
+
+
