@@ -1,0 +1,47 @@
+{
+  "dataset_name": "Australian Car Auction Marketplace Insights",
+  "week": "2025_week_21_December_summary",
+  "generated_at": "2025-12-21",
+  "coverage": "Australia",
+  "total_stock": 7047,
+  "distribution": {
+    "by_state": {
+      "NSW": { "percentage": 42.66 },
+      "QLD": { "percentage": 15.89 },
+      "VIC": { "percentage": 22.56 },
+      "WA": { "percentage": 5.44 },
+      "SA": { "percentage": 3.46 }
+    }
+  },
+  "auction_events": {
+    "total_scheduled": 44
+  },
+  "top_picks": [
+    {
+      "year": 1998,
+      "make": "Mercedes Benz",
+      "model": "C43",
+      "body_type": "Luxury Sedan",
+      "example_type": "Pick of the Week",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-market-report-next-7-days-28th-december-2025/"
+    },
+    {
+      "year": 2024,
+      "make": "Audi",
+      "model": "Q7",
+      "body_type": "SUV",
+      "fuel_type": "Diesel",
+      "example_type": "Featured Vehicle",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-market-report-next-7-days-28th-december-2025/"
+    },
+    {
+      "year": 2021,
+      "make": "BMW",
+      "model": "M8",
+      "body_type": "Coupe",
+      "fuel_type": "Diesel",
+      "example_type": "Featured Vehicle",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-market-report-next-7-days-28th-december-2025/"
+    }
+  ]
+}
