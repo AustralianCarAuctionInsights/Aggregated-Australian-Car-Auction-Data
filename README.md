@@ -8,15 +8,20 @@ These snapshots reflect high‑level auction activity and distribution patterns 
 
 
 
-## About Wholesale Console
+## About Wholesale Console : wholesaleconsole.com
 
 Wholesale Console is a **pre‑bidding intelligence platform** for Australian car auctions, helping dealers and buyers understand the auction market with actionable insights, suggested bid ranges, transport cost estimations, and aggregated trends.
+
+Visit our report publishing website:  
+**https://media.wholesaleconsole.com/**
 
 Visit our AI and API documentation page here:  
 **Link to be added here**
 
 Subscribe to weekly auction market reports:  
 ****how to use Link to be added here**
+
+
 
 ---
 
