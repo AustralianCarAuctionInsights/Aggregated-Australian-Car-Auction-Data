@@ -1,5 +1,7 @@
 License / Terms of Use
 
+## Licence
+This dataset is released under CC BY 4.0. You are free to use, share, and adapt it for any purpose, provided you credit Wholesale Console and link to https://media.wholesaleconsole.com.
 
 **1. Data Source Disclaimer**
 
