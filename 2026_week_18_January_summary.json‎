@@ -1,0 +1,91 @@
+{
+  "dataset_name": "Australian Car Auction Marketplace Insights",
+  "week": "2026_week_18_January_summary",
+  "generated_at": "2026-01-18",
+  "coverage": "Australia",
+  "total_stock": 8231,
+
+  "distribution": {
+    "by_state": {
+      "NSW": { "vehicles": 3333, "percentage": 40.49 },
+      "QLD": { "vehicles": 1689, "percentage": 20.52 },
+      "VIC": { "vehicles": 1860, "percentage": 22.60 },
+      "WA": { "vehicles": 689, "percentage": 8.37 },
+      "SA": { "vehicles": 320, "percentage": 3.89 },
+      "ACT": { "vehicles": 148, "percentage": 1.80 },
+      "TAS": { "vehicles": 126, "percentage": 1.53 },
+      "NT": { "vehicles": 66, "percentage": 0.80 }
+    },
+
+    "by_suggested_bid_range": {
+      "Below_5000": { "auctions": 1908, "percentage": 19.74 },
+      "5000_to_30000": { "auctions": 6112, "percentage": 63.23 },
+      "Above_30000": { "auctions": 1646, "percentage": 17.03 }
+    }
+  },
+
+  "auction_events": {
+    "total_scheduled": 58,
+    "active_auction_houses": 26
+  },
+
+  "top_picks": [
+    {
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Staria US4.V3 Load 2S Liftback",
+      "body_type": "5D Van",
+      "doors": 5,
+      "seats": 2,
+      "odometer_km": 4984,
+      "transmission": "8-Speed Automatic",
+      "engine": "4 Cyl 2.2L",
+      "drive_type": "Front Wheel Drive",
+      "fuel_type": "Diesel",
+      "vin": "KMFYFX71MSU195484",
+      "registration_status": "Unregistered",
+      "auction_house": "Manheim",
+      "example_type": "Pick of the Week",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-report-18-jan-24-jan/"
+    },
+    {
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "Vito",
+      "body_type": "Van",
+      "doors": 5,
+      "seats": 2,
+      "odometer_km": 21614,
+      "transmission": "7-Speed Sports Automatic",
+      "drive_type": "Rear Wheel Drive",
+      "engine_capacity_l": 2.1,
+      "fuel_type": "Direct Injection Diesel",
+      "vin": "W1V44760523983598",
+      "registration": "YQF79Y",
+      "registration_expiry": "2026-03-18",
+      "service_history": "Not Available",
+      "auction_house": "Pickles",
+      "example_type": "Featured Vehicle",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-report-18-jan-24-jan/"
+    },
+    {
+      "year": 2016,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter 316CDI NCV3",
+      "body_type": "Long Wheelbase High Roof Van",
+      "odometer_km": 138242,
+      "transmission": "6-Speed Manual",
+      "drive_type": "Rear Wheel Drive",
+      "engine": "4 Cyl 2.1L Diesel",
+      "power_output_kw": 120,
+      "gvm_kg": 3550,
+      "gcm_kg": 5550,
+      "vin": "WDB9066352P258591",
+      "registration_number": "S433BLM",
+      "stock_number": "MD23456",
+      "auction_house": "Universal Motor Auctions",
+      "example_type": "Featured Vehicle",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-report-18-jan-24-jan/"
+    }
+  ]
+}

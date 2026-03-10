@@ -1,0 +1,89 @@
+{
+  "dataset_name": "Australian Car Auction Marketplace Insights",
+  "week": "2026_week_04_January_summary",
+  "generated_at": "2026-01-25",
+  "coverage": "Australia",
+  "total_stock": 7659,
+
+  "distribution": {
+    "by_state": {
+      "NSW": { "vehicles": 3017, "percentage": 39.40 },
+      "QLD": { "vehicles": 1809, "percentage": 23.62 },
+      "VIC": { "vehicles": 1729, "percentage": 22.57 },
+      "WA": { "vehicles": 461, "percentage": 6.02 },
+      "SA": { "vehicles": 321, "percentage": 4.19 },
+      "ACT": { "vehicles": 145, "percentage": 1.89 },
+      "TAS": { "vehicles": 124, "percentage": 1.62 },
+      "NT": { "vehicles": 53, "percentage": 0.69 }
+    },
+
+    "by_suggested_bid_range": {
+      "Below_5000": { "auctions": 1971, "percentage": 21.2 },
+      "5000_to_30000": { "auctions": 5812, "percentage": 62.6 },
+      "Above_30000": { "auctions": 1469, "percentage": 16.2 }
+    }
+  },
+
+  "auction_events": {
+    "total_scheduled": 73,
+    "active_auction_houses": 26
+  },
+
+  "top_picks": [
+    {
+      "year": 2004,
+      "make": "Nissan",
+      "model": "X-Trail TI Luxury T30",
+      "body_type": "Wagon",
+      "seats": 5,
+      "odometer_km": 178181,
+      "transmission": "Automatic",
+      "engine": "4 Cyl 2.5L",
+      "drive_type": "Part-Time 4WD",
+      "fuel_type": "Petrol",
+      "exterior_colour": "Champagne",
+      "interior_colour": "Black Leather",
+      "vin": "JN1TBNT30A0034445",
+      "registration_status": "Sold Unregistered",
+      "auction_house": "Grays",
+      "example_type": "Pick of the Week",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-report-january-25-to-31/"
+    },
+    {
+      "year": 2006,
+      "make": "Toyota",
+      "model": "Camry Sportivo WT-I",
+      "body_type": "4-Door Sedan",
+      "seats": 5,
+      "odometer_km": 250529,
+      "transmission": "Automatic",
+      "engine": "2.4L Petrol",
+      "drive_type": "Front Wheel Drive",
+      "colour": "White",
+      "vin": "6T153BK400X015767",
+      "engine_number": "2AZA386320",
+      "auction_house": "Lloyds",
+      "example_type": "Featured Vehicle",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-report-january-25-to-31/"
+    },
+    {
+      "year": 2009,
+      "make": "Hyundai",
+      "model": "Tucson City SX MY09",
+      "body_type": "4D Wagon",
+      "seats": 5,
+      "odometer_km": 210026,
+      "transmission": "5 Speed Manual",
+      "engine": "2.0L",
+      "fuel_type": "Unleaded",
+      "colour": "Blue",
+      "registration_number": "COV40P",
+      "vin": "KMHJN81BR9U071494",
+      "engine_number": "G4GC9426307",
+      "stock_number": "306440",
+      "auction_house": "City Motor Auctions",
+      "example_type": "Featured Vehicle",
+      "auction_link": "https://media.wholesaleconsole.com/australian-auto-auction-report-january-25-to-31/"
+    }
+  ]
+}

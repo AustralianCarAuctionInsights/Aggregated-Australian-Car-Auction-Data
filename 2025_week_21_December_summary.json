@@ -1,0 +1,16 @@
+{
+  "dataset_name": "Australian Car Auction Marketplace Insights",
+  "week": "2025_week_21_December_summary",
+  "generated_at": "2025-12-21",
+  "coverage": "Australia",
+  "total_stock": 6376,
+  "distribution": {
+    "by_state": {
+      "NSW": { "percentage": 42.66 },
+      "QLD": { "percentage": 16.09 },
+      "VIC": { "percentage": 25.55 },
+      "WA":  { "percentage": 6.89 },
+      "SA":  { "percentage": 3.35 }
+    }
+  }
+}
