@@ -7,6 +7,13 @@ These snapshots reflect high‑level auction activity and distribution patterns 
 📌 For real‑time data access or detailed vehicle history, please visit our dashboard application. **how to use Link to be added here** 
 
 
+## License Information: https://github.com/AustralianCarAuctionInsights/Aggregated-Australian-Car-Auction-Data/blob/stagingMain/LICENSE.md
+
+## Citation
+Wholesale Console (2026). Australian Car Auction Marketplace Insights.  https://github.com/AustralianCarAuctionInsights/Aggregated-Australian-Car-Auction-Data
+
+## Update Schedule
+Snapshots are published weekly, typically covering Sunday to Saturday of the following week. Abit like weekly forecast. 
 
 ## About Wholesale Console : https://www.wholesaleconsole.com/
 
