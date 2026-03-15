@@ -1,0 +1,62 @@
+{
+  "dataset_name": "Australian Car Auction Marketplace Insights",
+  "generated_at": "2026-03-15T14:17:00+10:00",
+  "coverage": "Australia",
+
+  "total_stock": 13321,
+
+  "vehicle_condition_distribution": {
+    "non_salvage": 8650,
+    "salvage": 4671
+  },
+
+  "distribution": {
+
+    "by_state": [
+      { "state": "NSW", "percentage": 31.4 },
+      { "state": "VIC", "percentage": 28.5 },
+      { "state": "QLD", "percentage": 21.1 },
+      { "state": "WA", "percentage": 9.2 },
+      { "state": "SA", "percentage": 5.3 },
+      { "state": "TAS", "percentage": 2.2 },
+      { "state": "ACT", "percentage": 1.6 },
+      { "state": "NT", "percentage": 0.8 }
+    ],
+
+    "by_fuel_type": [
+      { "fuel": "Petrol", "percentage": 65.8 },
+      { "fuel": "Diesel", "percentage": 32.0 },
+      { "fuel": "Electric", "percentage": 0.9 },
+      { "fuel": "Hybrid", "percentage": 0.8 },
+      { "fuel": "Ethanol", "percentage": 0.0 }
+    ],
+
+    "by_odometer_range": [
+      { "range": "Not declared", "percentage": 8.8 },
+      { "range": "0-20000", "percentage": 10.4 },
+      { "range": "20001-40000", "percentage": 3.9 },
+      { "range": "40001-60000", "percentage": 4.8 },
+      { "range": "60001-80000", "percentage": 5.0 },
+      { "range": "80001-100000", "percentage": 6.5 },
+      { "range": "100001-120000", "percentage": 6.5 },
+      { "range": "120001-150000", "percentage": 10.9 },
+      { "range": "150001-300000", "percentage": 36.1 },
+      { "range": "300001-600000", "percentage": 5.7 },
+      { "range": "600000+", "percentage": 0.1 }
+    ],
+
+    "price_distribution_non_salvage": [
+      { "range": "0-15000", "description": "Under $15,000", "percentage": 52.8 },
+      { "range": "15000-30000", "description": "$15,000 - $30,000", "percentage": 29.6 },
+      { "range": "30000-50000", "description": "$30,000 - $50,000", "percentage": 12.6 },
+      { "range": "50000-100000", "description": "$50,000 - $100,000", "percentage": 4.3 },
+      { "range": "100000+", "description": "$100,000+", "percentage": 0.7 }
+    ]
+
+  },
+
+  "auction_events": {
+    "total_scheduled": 86,
+    "active_auction_houses": 36
+  }
+}
