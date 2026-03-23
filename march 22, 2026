@@ -23,7 +23,7 @@
       { "state": "NT", "percentage": 0.9 }
     ],
 
-    "by_fuel_type": [
+    "by_fuel_type_non_salvage": [
       { "fuel": "Petrol", "percentage": 66.93 },
       { "fuel": "Diesel", "percentage": 31.47 },
       { "fuel": "Hybrid", "percentage": 0.83 },
@@ -32,7 +32,7 @@
       { "fuel": "Ethanol", "percentage": 0.04 }
     ],
 
-    "by_odometer_range": [
+    "by_odometer_range_non_salvage": [
       { "range": "Not declared", "percentage": 7.22 },
       { "range": "0-20000", "percentage": 8.88 },
       { "range": "20001-40000", "percentage": 4.23 },
